@@ -29,6 +29,13 @@
                 <h1 class="subtitle">Soluções em T.I</h2>
                 <p class='paragraph'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur natus obcaecati, illo doloribus iusto sit numquam nam laboriosam?</p>
             </div>
+
+            <div class="socialIcons">
+                <a href="#">Twitter</a>
+                <a href="#">Facebook</a>
+                <a href="#">LinkedIn</a>
+                <a href="#">Instagram</a>
+            </div>
         </header>
         
     </div>
