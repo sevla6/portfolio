@@ -11,7 +11,7 @@
         <header class="cabecalho">
             <nav class="menu">
                 <div class="logo">
-                    <img src="images/logo.png" alt='LOGO'>
+                    <img src="images/logo.png" alt='LOGO' width='150'>
                 </div>
                 <ul>
                     <li>Home</li>
@@ -22,6 +22,13 @@
                     <li>Contato</li>
                 </ul>
             </nav>
+
+
+            <div class="titles">
+                <h1 class="title">Entregando Serviços de Qualidade</h1>
+                <h1 class="subtitle">Soluções em T.I</h2>
+                <p class='paragraph'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur natus obcaecati, illo doloribus iusto sit numquam nam laboriosam?</p>
+            </div>
         </header>
         
     </div>
