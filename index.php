@@ -13,6 +13,14 @@
                 <div class="logo">
                     <img src="images/logo.png" alt='LOGO'>
                 </div>
+                <ul>
+                    <li>Home</li>
+                    <li>Serviços</li>
+                    <li>Produtos</li>
+                    <li>Portfólio</li>
+                    <li>Sobre</li>
+                    <li>Contato</li>
+                </ul>
             </nav>
         </header>
         
