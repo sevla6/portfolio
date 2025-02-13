@@ -31,10 +31,10 @@
             </div>
 
             <div class="socialIcons">
-                <a href="#">Twitter</a>
-                <a href="#">Facebook</a>
-                <a href="#">LinkedIn</a>
-                <a href="#">Instagram</a>
+                <a href="https://x.com" target="_blank" title="Acesse nosso Twitter!">Twitter</a>
+                <a href="#" title="Acesse nosso Facebook!">Facebook</a>
+                <a href="#" title="Acesse nosso LinkedIn!">LinkedIn</a>
+                <a href="#" title="Acesse nosso Instagram!">Instagram</a>
             </div>
         </header>
         
