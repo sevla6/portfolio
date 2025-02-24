@@ -11,20 +11,21 @@
 <div id="interface">
 
     <header class="cabecalho">
+        
 
         <nav class="menu">
 
             <div class="logo">
-                <img src="images/logo.png" alt="LOGO" width="150" />
+                <img src="images/logo.png" alt="LOGO"/>
             </div>
 
             <ul>
-                <li>Home</li>
-                <li>Serviços</li>
-                <li>Produtos</li>
-                <li>Portifólio</li>
-                <li>Sobre</li>
-                <li>Contato</li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Portifólio</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Contato</a></li>
             </ul>
 
         </nav>
@@ -46,6 +47,7 @@
         </div>
 
     </header>
+    
 
 </div>
     

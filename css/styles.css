@@ -1,3 +1,54 @@
-*{
+:root {
+    font-size: 12px;
+    font-family: Verdana, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+    vertical-align: baseline;
+}
+
+#interface {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+#interface header.cabecalho {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/hero-bg.png);
+    color: #fafafa;
+}
+
+#interface .cabecalho .menu {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#interface .cabecalho .menu .logo {
+    display: block;
+    width: 150px;
+}
+
+#interface .cabecalho .menu .logo img {
+    display: block;
+    width: 100%;
+}
+
+#interface .cabecalho .menu li {
+    display: flex;
+    list-style: none;
+}
+
+#interface .cabecalho .menu ul li {
     
 }
